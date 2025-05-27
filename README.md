@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -30,7 +30,8 @@
 ### d. Path Planning:
 ### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
+![Screenshot 2025-05-28 004756](https://github.com/user-attachments/assets/9f43568b-d934-41ed-addc-2ec3935d4056)
+
 
 ### ●	All the processes related to pre-processing will be shown on the screen.
 ### ●	Select CAD file preparation from the visible list.
@@ -39,14 +40,13 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2025-05-28 004533](https://github.com/user-attachments/assets/4fa287ef-2cdc-48f2-8fd4-e5543c753143)
+![Screenshot 2025-05-28 004542](https://github.com/user-attachments/assets/c513621b-0fb0-4c27-940b-468a46b5c09a)
+![Screenshot 2025-05-28 004554](https://github.com/user-attachments/assets/0e2bbac5-ece0-4bcf-b09d-0e913f0c0eb0)
+![Screenshot 2025-05-28 004602](https://github.com/user-attachments/assets/f70a2826-c510-40ee-b3fe-db3a55ab93e1)
 
-## Output:
-
-### Name:
-### Register Number:
+### Name:KABILAN.P
+### Register Number:212224040145
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
